@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SimuChat - Školní komunikátor",
+  "description": "Simulátor chatu pro rozvoj komunikačních kompetencí. Umožňuje nastavit téma, role a vizuál aplikace pro edukativní simulace konverzace s AI partnerem, 3 režimy komunikace.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
